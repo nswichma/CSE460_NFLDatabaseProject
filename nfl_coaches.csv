@@ -1,0 +1,33 @@
+CoachID,CoachName,TeamID,TeamName,SalaryUSD,YearHired
+1,Jonathan Gannon,1,Arizona Cardinals,5000000,2023
+2,Raheem Morris,2,Atlanta Falcons,4500000,2024
+3,John Harbaugh,3,Baltimore Ravens,12000000,2008
+4,Sean McDermott,4,Buffalo Bills,8500000,2017
+5,Dave Canales,5,Carolina Panthers,4500000,2024
+6,Matt Eberflus,6,Chicago Bears,4500000,2022
+7,Zac Taylor,7,Cincinnati Bengals,6000000,2019
+8,Kevin Stefanski,8,Cleveland Browns,7500000,2020
+9,Mike McCarthy,9,Dallas Cowboys,8000000,2020
+10,Sean Payton,10,Denver Broncos,18000000,2023
+11,Dan Campbell,11,Detroit Lions,4000000,2021
+12,Matt LaFleur,12,Green Bay Packers,5000000,2019
+13,DeMeco Ryans,13,Houston Texans,6000000,2023
+14,Shane Steichen,14,Indianapolis Colts,5000000,2023
+15,Doug Pederson,15,Jacksonville Jaguars,8500000,2022
+16,Andy Reid,16,Kansas City Chiefs,20000000,2013
+17,Antonio Pierce,17,Las Vegas Raiders,4000000,2024
+18,Jim Harbaugh,18,Los Angeles Chargers,16000000,2024
+19,Sean McVay,19,Los Angeles Rams,14000000,2017
+20,Mike McDaniel,20,Miami Dolphins,4500000,2022
+21,Kevin O'Connell,21,Minnesota Vikings,5000000,2022
+22,Jerod Mayo,22,New England Patriots,4500000,2024
+23,Dennis Allen,23,New Orleans Saints,5000000,2022
+24,Brian Daboll,24,New York Giants,5000000,2022
+25,Robert Saleh,25,New York Jets,5000000,2021
+26,Nick Sirianni,26,Philadelphia Eagles,6000000,2021
+27,Mike Tomlin,27,Pittsburgh Steelers,12500000,2007
+28,Kyle Shanahan,28,San Francisco 49ers,10000000,2017
+29,Mike Macdonald,29,Seattle Seahawks,5000000,2024
+30,Todd Bowles,30,Tampa Bay Buccaneers,4500000,2022
+31,Brian Callahan,31,Tennessee Titans,4500000,2024
+32,Dan Quinn,32,Washington Commanders,6000000,2024
