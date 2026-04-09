@@ -1,0 +1,33 @@
+StadiumID,TeamName,City,StadiumName,YearBuilt,Cost
+1,Arizona Cardinals,Glendale,State Farm Stadium,2006,455000000
+2,Atlanta Falcons,Atlanta,Mercedes-Benz Stadium,2017,1600000000
+3,Baltimore Ravens,Baltimore,M&T Bank Stadium,1998,220000000
+4,Buffalo Bills,Orchard Park,Highmark Stadium,1973,22000000
+5,Carolina Panthers,Charlotte,Bank of America Stadium,1996,248000000
+6,Chicago Bears,Chicago,Soldier Field,1924,13000000
+7,Cincinnati Bengals,Cincinnati,Paycor Stadium,2000,455000000
+8,Cleveland Browns,Cleveland,Huntington Bank Field,1999,283000000
+9,Dallas Cowboys,Arlington,AT&T Stadium,2009,1300000000
+10,Denver Broncos,Denver,Empower Field at Mile High,2001,400000000
+11,Detroit Lions,Detroit,Ford Field,2002,500000000
+12,Green Bay Packers,Green Bay,Lambeau Field,1957,960000
+13,Houston Texans,Houston,NRG Stadium,2002,352000000
+14,Indianapolis Colts,Indianapolis,Lucas Oil Stadium,2008,720000000
+15,Jacksonville Jaguars,Jacksonville,TIAA Bank Field,1995,121000000
+16,Kansas City Chiefs,Kansas City,Arrowhead Stadium,1972,43000000
+17,Las Vegas Raiders,Las Vegas,Allegiant Stadium,2020,1900000000
+18,Los Angeles Chargers,Inglewood,SoFi Stadium,2020,5500000000
+19,Los Angeles Rams,Inglewood,SoFi Stadium,2020,5500000000
+20,Miami Dolphins,Miami Gardens,Hard Rock Stadium,1987,115000000
+21,Minnesota Vikings,Minneapolis,U.S. Bank Stadium,2016,1100000000
+22,New England Patriots,Foxborough,Gillette Stadium,2002,325000000
+23,New Orleans Saints,New Orleans,Caesars Superdome,1975,134000000
+24,New York Giants,East Rutherford,MetLife Stadium,2010,1600000000
+25,New York Jets,East Rutherford,MetLife Stadium,2010,1600000000
+26,Philadelphia Eagles,Philadelphia,Lincoln Financial Field,2003,512000000
+27,Pittsburgh Steelers,Pittsburgh,Acrisure Stadium,2001,281000000
+28,San Francisco 49ers,Santa Clara,Levi's Stadium,2014,1300000000
+29,Seattle Seahawks,Seattle,Lumen Field,2002,430000000
+30,Tampa Bay Buccaneers,Tampa,Raymond James Stadium,1998,168000000
+31,Tennessee Titans,Nashville,Nissan Stadium,1999,290000000
+32,Washington Commanders,Landover,FedExField,1997,250000000
