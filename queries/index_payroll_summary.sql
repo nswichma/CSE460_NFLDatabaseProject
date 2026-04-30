@@ -9,7 +9,7 @@ FROM teams t
 JOIN players p
     ON t.teamid = p.teamid
 GROUP BY t.teamname
-ORDER BY total_playerSalary DESC;
+ORDER BY totalPlayerSalary DESC;
 
 --Index then check after results
 CREATE INDEX idx_players_teamid ON players (teamid);
@@ -19,10 +19,10 @@ EXPLAIN ANALYZE
 SELECT
     t.teamname,
     COUNT(p.playerid) AS playerCount,
-    SUM(p.salary) AS total_playerSalary,
+    SUM(p.salary) AS totalPlayerSalary,
     ROUND(AVG(p.salary), 2) AS averagePlayerSalary
 FROM teams t
 JOIN players p
     ON t.teamid = p.teamid
 GROUP BY t.teamname
-ORDER BY total_player_salary DESC;
+ORDER BY totalPlayerSalary DESC;
