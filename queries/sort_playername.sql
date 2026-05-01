@@ -1,4 +1,0 @@
-EXPLAIN ANALYZE
-SELECT *
-FROM players
-ORDER BY playername DESC
