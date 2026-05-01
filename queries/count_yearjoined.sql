@@ -1,5 +1,4 @@
-
-SELECT playername, playerid, passyards
-FROM offensivestats
-ORDER BY passyards DESC
-LIMIT 10
+SELECT yearjoined, Count(*) AS count
+FROM players
+GROUP BY yearjoined
+ORDER BY yearjoined;
